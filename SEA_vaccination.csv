@@ -1,0 +1,10 @@
+country,total_vaccinations,people_vaccinated,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,vaccine 1,vaccine 2,vaccine 3,population,gdp,land,cpi,lit_rate,political_stability
+Cambodia,296149,229079,1.77,1.37,0,Sinopharm/Beijing,,,15552211,27089389787,176520,21,80.52648926,-0.0808967
+Indonesia,10425690,7190663,3.81,2.63,1.18,Sinovac,,,270203917,1.12E+12,1877519,37,95.65856171,-0.4812067
+Laos,40732,40732,0.56,0.56,0,Sinopharm/Beijing,Sputnik V,,7337783,18173839147,230800,29,84.66104126,0.5250729
+Malaysia,536681,443124,1.66,1.37,0,Sinovac,Pfizer/BioNTech,,32758310,3.65E+11,328550,51,94.85440826,0.1102767
+Myanmar,380000,380000,0.7,0.7,0,Oxford/AstraZeneca,,,55294979,76085852617,652790,28,75.55120087,-1.261767
+Philippines,508332,508332,0.46,0.46,0,Oxford/AstraZeneca,Sinovac,,110027477,3.77E+11,298170,34,98.18254852,-0.8849657
+Singapore,1109000,799000,18.96,13.66,5.3,Moderna,Pfizer/BioNTech,,5685807,3.72E+11,709,85,97.34485626,1.531602
+Thailand,102050,96188,0.15,0.14,0.01,Oxford/AstraZeneca,Sinovac,,66629267,5.44E+11,510890,36,93.76776123,-0.5375581
+Vietnam,44000,44000,0.05,0.05,0,Oxford/AstraZeneca,,,97580000,2.62E+11,310070,36,95.00038147,0.1318749
